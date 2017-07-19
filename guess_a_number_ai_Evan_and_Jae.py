@@ -1,6 +1,6 @@
 #Guess-A-Number AI
 #
-#Evan Budelmann and Jae Curtis
+#Evan and Jae
 #September 14,2016
 
 #Imort Modules
